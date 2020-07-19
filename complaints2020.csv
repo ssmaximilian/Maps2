@@ -1,0 +1,73 @@
+﻿index,DateReceived,Product,SubProduct,Issue,SubIssue,ConsumerComplaintNarrative,CompanyPublicResponse,Company,State,ZipCode,Tags,ConsumerConsentProvided?,SubmittedVia,DateSentToCompany,CompanyResponseToConsumer,TimelyResponse?,ConsumerDisputed?,ComplaintId,
+0,0,12/5/11,Credit card,None,Rewards,None,None,None,Discover,NY,13835,None,None,Postal mail,12/6/11,Closed without relief,Yes,No,2922
+1,1,12/5/11,Credit card,None,Billing disputes,None,None,None,Capital One,NY,11582,None,None,Referral,12/5/11,Closed with relief,Yes,No,2928
+2,2,12/5/11,Credit card,None,Closing/Cancelling account,None,None,None,Bank of America,NC,28411,Servicemember,None,Phone,12/9/11,Closed with relief,Yes,Yes,2929
+3,3,12/5/11,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",None,None,None,Wells Fargo & Company,VA,20194,None,None,Web,12/6/11,Closed without relief,Yes,Yes,2931
+4,4,12/5/11,Credit card,None,Identity theft / Fraud / Embezzlement,None,None,None,JPMorgan Chase & Co.,IL,60202,None,None,Referral,12/5/11,Closed without relief,Yes,No,2934
+5,5,12/5/11,Credit card,None,Collection debt dispute,None,None,None,Bank of America,CA,95648,None,None,Referral,12/5/11,Closed with relief,Yes,No,2937
+6,6,12/5/11,Credit card,None,Credit determination,None,None,None,JPMorgan Chase & Co.,TX,78041,None,None,Fax,12/9/11,Closed without relief,Yes,Yes,2939
+7,7,12/5/11,Credit card,None,Billing disputes,None,None,None,Capital One,VT,5043,None,None,Referral,12/5/11,Closed with relief,Yes,No,2940
+8,8,12/5/11,Credit card,None,Credit card protection / Debt protection,None,None,None,Capital One,KS,67579,Older American,None,Phone,12/9/11,Closed without relief,Yes,No,2942
+9,9,12/5/11,Credit card,None,Rewards,None,None,None,Discover,NY,13835,None,None,Postal mail,12/6/11,Closed without relief,Yes,No,2922
+10,10,12/5/11,Credit card,None,Billing disputes,None,None,None,Capital One,NY,11582,None,None,Referral,12/5/11,Closed with relief,Yes,No,2928
+11,11,12/5/11,Credit card,None,Closing/Cancelling account,None,None,None,Bank of America,NC,28411,Servicemember,None,Phone,12/9/11,Closed with relief,Yes,Yes,2929
+12,12,12/5/11,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",None,None,None,Wells Fargo & Company,VA,20194,None,None,Web,12/6/11,Closed without relief,Yes,Yes,2931
+13,13,12/5/11,Credit card,None,Identity theft / Fraud / Embezzlement,None,None,None,JPMorgan Chase & Co.,IL,60202,None,None,Referral,12/5/11,Closed without relief,Yes,No,2934
+14,14,12/5/11,Credit card,None,Collection debt dispute,None,None,None,Bank of America,CA,95648,None,None,Referral,12/5/11,Closed with relief,Yes,No,2937
+15,15,12/5/11,Credit card,None,Credit determination,None,None,None,JPMorgan Chase & Co.,TX,78041,None,None,Fax,12/9/11,Closed without relief,Yes,Yes,2939
+16,16,12/5/11,Credit card,None,Billing disputes,None,None,None,Capital One,VT,5043,None,None,Referral,12/5/11,Closed with relief,Yes,No,2940
+17,17,12/5/11,Credit card,None,Credit card protection / Debt protection,None,None,None,Capital One,KS,67579,Older American,None,Phone,12/9/11,Closed without relief,Yes,No,2942
+18,18,12/5/11,Credit card,None,Rewards,None,None,None,Discover,NY,13835,None,None,Postal mail,12/6/11,Closed without relief,Yes,No,2922
+19,19,12/5/11,Credit card,None,Billing disputes,None,None,None,Capital One,NY,11582,None,None,Referral,12/5/11,Closed with relief,Yes,No,2928
+20,20,12/5/11,Credit card,None,Closing/Cancelling account,None,None,None,Bank of America,NC,28411,Servicemember,None,Phone,12/9/11,Closed with relief,Yes,Yes,2929
+21,21,12/5/11,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",None,None,None,Wells Fargo & Company,VA,20194,None,None,Web,12/6/11,Closed without relief,Yes,Yes,2931
+22,22,12/5/11,Credit card,None,Identity theft / Fraud / Embezzlement,None,None,None,JPMorgan Chase & Co.,IL,60202,None,None,Referral,12/5/11,Closed without relief,Yes,No,2934
+23,23,12/5/11,Credit card,None,Collection debt dispute,None,None,None,Bank of America,CA,95648,None,None,Referral,12/5/11,Closed with relief,Yes,No,2937
+24,24,12/5/11,Credit card,None,Credit determination,None,None,None,JPMorgan Chase & Co.,TX,78041,None,None,Fax,12/9/11,Closed without relief,Yes,Yes,2939
+25,25,12/5/11,Credit card,None,Billing disputes,None,None,None,Capital One,VT,5043,None,None,Referral,12/5/11,Closed with relief,Yes,No,2940
+26,26,12/5/11,Credit card,None,Credit card protection / Debt protection,None,None,None,Capital One,KS,67579,Older American,None,Phone,12/9/11,Closed without relief,Yes,No,2942
+27,27,12/5/11,Credit card,None,Rewards,None,None,None,Discover,NY,13835,None,None,Postal mail,12/6/11,Closed without relief,Yes,No,2922
+28,28,12/5/11,Credit card,None,Billing disputes,None,None,None,Capital One,NY,11582,None,None,Referral,12/5/11,Closed with relief,Yes,No,2928
+29,29,12/5/11,Credit card,None,Closing/Cancelling account,None,None,None,Bank of America,NC,28411,Servicemember,None,Phone,12/9/11,Closed with relief,Yes,Yes,2929
+30,30,12/5/11,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",None,None,None,Wells Fargo & Company,VA,20194,None,None,Web,12/6/11,Closed without relief,Yes,Yes,2931
+31,31,12/5/11,Credit card,None,Identity theft / Fraud / Embezzlement,None,None,None,JPMorgan Chase & Co.,IL,60202,None,None,Referral,12/5/11,Closed without relief,Yes,No,2934
+32,32,12/5/11,Credit card,None,Collection debt dispute,None,None,None,Bank of America,CA,95648,None,None,Referral,12/5/11,Closed with relief,Yes,No,2937
+33,33,12/5/11,Credit card,None,Credit determination,None,None,None,JPMorgan Chase & Co.,TX,78041,None,None,Fax,12/9/11,Closed without relief,Yes,Yes,2939
+34,34,12/5/11,Credit card,None,Billing disputes,None,None,None,Capital One,VT,5043,None,None,Referral,12/5/11,Closed with relief,Yes,No,2940
+35,35,12/5/11,Credit card,None,Credit card protection / Debt protection,None,None,None,Capital One,KS,67579,Older American,None,Phone,12/9/11,Closed without relief,Yes,No,2942
+36,36,12/5/11,Credit card,None,Rewards,None,None,None,Discover,NY,13835,None,None,Postal mail,12/6/11,Closed without relief,Yes,No,2922
+37,37,12/5/11,Credit card,None,Billing disputes,None,None,None,Capital One,NY,11582,None,None,Referral,12/5/11,Closed with relief,Yes,No,2928
+38,38,12/5/11,Credit card,None,Closing/Cancelling account,None,None,None,Bank of America,NC,28411,Servicemember,None,Phone,12/9/11,Closed with relief,Yes,Yes,2929
+39,39,12/5/11,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",None,None,None,Wells Fargo & Company,VA,20194,None,None,Web,12/6/11,Closed without relief,Yes,Yes,2931
+40,40,12/5/11,Credit card,None,Identity theft / Fraud / Embezzlement,None,None,None,JPMorgan Chase & Co.,IL,60202,None,None,Referral,12/5/11,Closed without relief,Yes,No,2934
+41,41,12/5/11,Credit card,None,Collection debt dispute,None,None,None,Bank of America,CA,95648,None,None,Referral,12/5/11,Closed with relief,Yes,No,2937
+42,42,12/5/11,Credit card,None,Credit determination,None,None,None,JPMorgan Chase & Co.,TX,78041,None,None,Fax,12/9/11,Closed without relief,Yes,Yes,2939
+43,43,12/5/11,Credit card,None,Billing disputes,None,None,None,Capital One,VT,5043,None,None,Referral,12/5/11,Closed with relief,Yes,No,2940
+44,44,12/5/11,Credit card,None,Credit card protection / Debt protection,None,None,None,Capital One,KS,67579,Older American,None,Phone,12/9/11,Closed without relief,Yes,No,2942
+45,45,12/5/11,Credit card,None,Rewards,None,None,None,Discover,NY,13835,None,None,Postal mail,12/6/11,Closed without relief,Yes,No,2922
+46,46,12/5/11,Credit card,None,Billing disputes,None,None,None,Capital One,NY,11582,None,None,Referral,12/5/11,Closed with relief,Yes,No,2928
+47,47,12/5/11,Credit card,None,Closing/Cancelling account,None,None,None,Bank of America,NC,28411,Servicemember,None,Phone,12/9/11,Closed with relief,Yes,Yes,2929
+48,48,12/5/11,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",None,None,None,Wells Fargo & Company,VA,20194,None,None,Web,12/6/11,Closed without relief,Yes,Yes,2931
+49,49,12/5/11,Credit card,None,Identity theft / Fraud / Embezzlement,None,None,None,JPMorgan Chase & Co.,IL,60202,None,None,Referral,12/5/11,Closed without relief,Yes,No,2934
+50,50,12/5/11,Credit card,None,Collection debt dispute,None,None,None,Bank of America,CA,95648,None,None,Referral,12/5/11,Closed with relief,Yes,No,2937
+51,51,12/5/11,Credit card,None,Credit determination,None,None,None,JPMorgan Chase & Co.,TX,78041,None,None,Fax,12/9/11,Closed without relief,Yes,Yes,2939
+52,52,12/5/11,Credit card,None,Billing disputes,None,None,None,Capital One,VT,5043,None,None,Referral,12/5/11,Closed with relief,Yes,No,2940
+53,53,12/5/11,Credit card,None,Credit card protection / Debt protection,None,None,None,Capital One,KS,67579,Older American,None,Phone,12/9/11,Closed without relief,Yes,No,2942
+54,54,12/5/11,Credit card,None,Rewards,None,None,None,Discover,NY,13835,None,None,Postal mail,12/6/11,Closed without relief,Yes,No,2922
+55,55,12/5/11,Credit card,None,Billing disputes,None,None,None,Capital One,NY,11582,None,None,Referral,12/5/11,Closed with relief,Yes,No,2928
+56,56,12/5/11,Credit card,None,Closing/Cancelling account,None,None,None,Bank of America,NC,28411,Servicemember,None,Phone,12/9/11,Closed with relief,Yes,Yes,2929
+57,57,12/5/11,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",None,None,None,Wells Fargo & Company,VA,20194,None,None,Web,12/6/11,Closed without relief,Yes,Yes,2931
+58,58,12/5/11,Credit card,None,Identity theft / Fraud / Embezzlement,None,None,None,JPMorgan Chase & Co.,IL,60202,None,None,Referral,12/5/11,Closed without relief,Yes,No,2934
+59,59,12/5/11,Credit card,None,Collection debt dispute,None,None,None,Bank of America,CA,95648,None,None,Referral,12/5/11,Closed with relief,Yes,No,2937
+60,60,12/5/11,Credit card,None,Credit determination,None,None,None,JPMorgan Chase & Co.,TX,78041,None,None,Fax,12/9/11,Closed without relief,Yes,Yes,2939
+61,61,12/5/11,Credit card,None,Billing disputes,None,None,None,Capital One,VT,5043,None,None,Referral,12/5/11,Closed with relief,Yes,No,2940
+62,62,12/5/11,Credit card,None,Credit card protection / Debt protection,None,None,None,Capital One,KS,67579,Older American,None,Phone,12/9/11,Closed without relief,Yes,No,2942
+63,63,12/5/11,Credit card,None,Rewards,None,None,None,Discover,NY,13835,None,None,Postal mail,12/6/11,Closed without relief,Yes,No,2922
+64,64,12/5/11,Credit card,None,Billing disputes,None,None,None,Capital One,NY,11582,None,None,Referral,12/5/11,Closed with relief,Yes,No,2928
+65,65,12/5/11,Credit card,None,Closing/Cancelling account,None,None,None,Bank of America,NC,28411,Servicemember,None,Phone,12/9/11,Closed with relief,Yes,Yes,2929
+66,66,12/5/11,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",None,None,None,Wells Fargo & Company,VA,20194,None,None,Web,12/6/11,Closed without relief,Yes,Yes,2931
+67,67,12/5/11,Credit card,None,Identity theft / Fraud / Embezzlement,None,None,None,JPMorgan Chase & Co.,IL,60202,None,None,Referral,12/5/11,Closed without relief,Yes,No,2934
+68,68,12/5/11,Credit card,None,Collection debt dispute,None,None,None,Bank of America,CA,95648,None,None,Referral,12/5/11,Closed with relief,Yes,No,2937
+69,69,12/5/11,Credit card,None,Credit determination,None,None,None,JPMorgan Chase & Co.,TX,78041,None,None,Fax,12/9/11,Closed without relief,Yes,Yes,2939
+70,70,12/5/11,Credit card,None,Billing disputes,None,None,None,Capital One,VT,5043,None,None,Referral,12/5/11,Closed with relief,Yes,No,2940
+71,71,12/5/11,Credit card,None,Credit card protection / Debt protection,None,None,None,Capital One,KS,67579,Older American,None,Phone,12/9/11,Closed without relief,Yes,No,2942
